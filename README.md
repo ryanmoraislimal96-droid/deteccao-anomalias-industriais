@@ -1,3 +1,11 @@
+
+
+## 🚀 Demonstração online
+
+👉 [Testar o sistema de Detecção de Anomalias Industriais](https://deteccao-anomalias-industriais.onrender.com/)
+
+
+
 # 🏭 Detecção de Anomalias Industriais com Machine Learning
 
 Sistema inteligente para análise de dados de sensores industriais, identificação de padrões associados a falhas e apoio à manutenção preventiva.
